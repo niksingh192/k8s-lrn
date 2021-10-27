@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx-nik1
-    image: nginx 1.21.3
+    image: nginx:1.21.3
   - name: nginx-nik2
     image: afakharany/watcher
